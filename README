@@ -1,0 +1,33 @@
+## create directory
+
+`mkdir "folder name"`
+
+## call folder
+
+`cd "folder name"`
+
+## Initailize npm init
+
+`npm init -y`
+create json file after the command
+
+## Install Express
+
+`npm install express`
+install node_module after the command
+
+## ignore file
+
+create .gitignore file
+
+## initialize empty git repository
+
+`git init`
+
+## Add git json
+
+`git add`
+
+## commit the init
+
+`git commit -m "init"`
