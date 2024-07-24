@@ -31,3 +31,7 @@ create .gitignore file
 ## commit the init
 
 `git commit -m "init"`
+
+## kill-port eg5000
+
+`npx kill-port eg5000`
